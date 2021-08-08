@@ -5,6 +5,7 @@
 
 [![](https://avatars.githubusercontent.com/u/923954?s=200&v=4)](https://medium.com/@kmes990402081/python-%E5%AF%A6%E4%BD%9C-particle-swarm-optimization-pso-%E7%B2%92%E5%AD%90%E7%BE%A4%E6%9C%80%E4%BD%B3%E5%8C%96-ba173ed936ca "Python 實作 Particle Swarm Optimization,PSO(粒子群最佳化)")
 
+▲Click the img to see more
 ## Particle Swarm Optimization
 ## 粒子群最佳化
 
